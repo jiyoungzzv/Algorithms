@@ -1,2 +1,2 @@
 # Algorithms
-알고리즘 코드 구현
+...ing
